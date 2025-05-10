@@ -139,10 +139,3 @@ Ensure the following are installed on your system:
 Feel free to fork this repository and submit pull requests for new features or bug fixes. Contributions are always welcome!
 
 ---
-
-## 📧 Contact  
-For queries or support, contact [cjaddhav@gmail.com].  
-
---- 
-
-*This project is an academic endeavor aimed at showcasing the integration of advanced frontend and backend technologies.*
